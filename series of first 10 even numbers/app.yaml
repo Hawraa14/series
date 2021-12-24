@@ -1,0 +1,8 @@
+application:  series of first 10 even numbers
+version:  1
+runtime:  python
+api_version:  1
+
+handlers:
+ -  url:  /.*
+    script:  index05.py
